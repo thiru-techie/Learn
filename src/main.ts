@@ -1,0 +1,34 @@
+import DSA from "./dsa";
+
+// console.log(DSA.Patterns.Nineteen(5)); 
+// console.log(DSA.Patterns.Twenty(5));
+// console.log(DSA.Patterns.TwentyOne(4));
+// console.log('Get Count', DSA.MathBasics.GetCountByNumber(12345));
+// console.log('GetReverseNumber', DSA.MathBasics.GetReverseNumber(-10400));
+// console.log('GetGCD', DSA.MathBasics.GetGCD(6, 12));
+// console.log('GetArmstrong', DSA.MathBasics.GetArmstrong(153));
+// console.log('GetAllDivisor', DSA.MathBasics.GetAllDivisor(36));
+// console.log('GetAllDivisorNandhaSolutions', DSA.MathBasics.GetAllDivisorNandhaSolutions(36));
+// console.log('GetPrimeNumber', DSA.MathBasics.GetPrimeNumber(17));
+// console.log('GetPrimeNumber', DSA.MathBasics.recursionName(5));
+// console.log('GetPrimeNumber', DSA.MathBasics.recursionSumOfN(5));
+// console.log('recursionFactorial', DSA.MathBasics.recursionFactorial(5));
+// const arr = [3,2,1];
+// DSA.MathBasics.recursionReverseByArray(arr, 0, arr.length);
+// console.log('recursionReverseByArray', arr);
+// const txt = 'cacdd';
+// const arrTxt = txt.split('');
+// console.log('recursionReverseByArray', DSA.MathBasics.recursionPolindrom(arrTxt, 0, arrTxt.length, txt));
+// console.log('GetFibonacci', DSA.MathBasics.GetFibonacci(5));
+// console.log('recursionFibonacci', DSA.MathBasics.recursionFibonacci(5));
+// console.log('largestElement', DSA.MathBasics.largestElement([1,3,2,7,2])); // max 1, 3 , 
+// console.log('largestSecondElement', DSA.MathBasics.largestSecondElement([1,3,2,7,2])); 
+// console.log('maxAccurance', DSA.MathBasics.maxAccurance([9,3,2,7,2,3,9,9]));
+// console.log('maxAccuranceLetters', DSA.MathBasics.maxAccuranceLetters('abca'));
+// console.log('selectionSort', DSA.MathBasics.selectionSort([3,2,8,5]));
+// console.log('bubbleSort', DSA.MathBasics.bubbleSort([3,2,8,5]));
+// console.log('rightRotation', DSA.MathBasics.rightRotation([3,2,8,5]));
+// console.log('leftRotation', DSA.MathBasics.leftRotation([3,2,8,5]));
+// console.log('insertionSort', DSA.MathBasics.insertionSort([3,2,8,5]));
+// console.log('mergeSort1', DSA.MathBasics.merge([2,3,5,8], [1,4]));
+console.log('mergeSort', DSA.MathBasics.mergeSort([2,3,6,5,7,4,1]));
